@@ -85,7 +85,7 @@ const locations: Location[] = [
     phone: '+7 (8652) 45-22-11',
     hours: '09:00 – 23:00',
     coordinates: { lat: 45.0502, lng: 41.9745 },
-    image: 'https://images.unsplash.com/photo-1507133750040-4a8f570215b8?w=600',
+    image: 'https://images.unsplash.com/photo-1445116572660-236099ec97a0?w=600',
     metro: 'Центр',
   },
 ]

@@ -73,7 +73,7 @@ export const Hero = () => {
             textShadow: '0 4px 60px rgba(0,0,0,0.08)',
           }}
         >
-          Даханаго
+          Дах4наг0
         </motion.h1>
 
         <motion.div
